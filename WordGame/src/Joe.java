@@ -7,6 +7,7 @@ public class Joe {
 	//private SetOfWords formableWords;
 	public Joe(Card[] cards, SetOfWords setOfValidWords)
 	{
+		System.out.println("Constructing Joe");
 		this.cards=cards;
 		this.setOfValidWords=setOfValidWords;
 		this.lettersFromCards=new LettersFromCards(this.cards);

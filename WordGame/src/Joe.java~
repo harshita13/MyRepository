@@ -1,7 +1,6 @@
 
 public class Joe {
 	//private SetOfWords wordsToForm;
-	//Changing................
 	private Card[]cards;
 	private SetOfWords setOfValidWords;
 	private LettersFromCards lettersFromCards;

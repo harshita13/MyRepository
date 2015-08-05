@@ -2,6 +2,7 @@
 public class Joe {
 	//private SetOfWords wordsToForm;
 	//Changing................
+	//Chaning for APInside
 	private Card[]cards;
 	private SetOfWords setOfValidWords;
 	private LettersFromCards lettersFromCards;

@@ -4,6 +4,7 @@ public class Joe {
 	//Changing................
 	//Chaning for APInside
 	//Changing only for letssee
+	//for letssee 2
 	private Card[]cards;
 	private SetOfWords setOfValidWords;
 	private LettersFromCards lettersFromCards;
